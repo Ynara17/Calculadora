@@ -1,1 +1,2 @@
-
+elif operacao  == '*':
+    resultado = numero1 * numero2
